@@ -5,9 +5,6 @@
 __pycache__/
 *.py[cod]
 
-# Generated model and EDA outputs
-results/
-
 # Generated cleaned dataset
 data/cleaned_credit_card_data.csv
 
